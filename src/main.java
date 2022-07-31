@@ -6,7 +6,7 @@ import java.util.Map.Entry;
 
 public class main {
     public static void main(String[] args) {
-        String PathToFile = "C:\\Users\\Tommy\\IdeaProjects\\TextTask\\src\\text.txt";  // INSERT FILE PATH
+        String PathToFile = "";  // INSERT FILE PATH
         Map<String, Integer> map;
 
         String st = parseFile(PathToFile);
